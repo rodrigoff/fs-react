@@ -20,5 +20,9 @@
         "constructor-super": "warn",
         "valid-typeof": "warn",
         "semi": "error"
-    }
+    },
+    "plugins": [
+        "react"
+    ],
+    "extends": ["eslint:recommended", "plugin:react/recommended"]
 }

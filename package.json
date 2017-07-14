@@ -2,7 +2,11 @@
   "name": "fs-react",
   "version": "1.0.0",
   "main": "index.js",
-  "keywords": ["react", "redux", "immutable"],
+  "keywords": [
+    "react",
+    "redux",
+    "immutable"
+  ],
   "author": "Rodrigo F. Fernandes <rodrigoff@live.com> (https://github.com/rodrigoff)",
   "license": "MIT",
   "repository": {
@@ -13,8 +17,5 @@
     "url": "https://github.com/rodrigoff/fs-react/issues"
   },
   "homepage": "https://github.com/rodrigoff/fs-react#readme",
-  "description": "",
-  "devDependencies": {
-    "eslint": "^4.2.0"
-  }
+  "description": ""
 }
