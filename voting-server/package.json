@@ -1,7 +1,6 @@
 {
   "name": "voting-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js",
@@ -9,8 +8,8 @@
     "test:watch": "npm run test -- --watch"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Rodrigo F. Fernandes <rodrigoff@live.com> (https://github.com/rodrigoff)",
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.25.0",
@@ -28,5 +27,9 @@
   },
   "dependencies": {
     "immutable": "^3.8.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
 }
